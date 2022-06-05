@@ -12,7 +12,7 @@ Hello World
 
 Hi.
 
-Here are some simple edits.
+Here are some simple edits SG3 made to the orginal template.
 
 Bye.
 
