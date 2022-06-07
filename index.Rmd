@@ -14,6 +14,8 @@ Hi.
 
 Here are some simple edits SG3 made to the orginal template.
 
+And here are some more edits SG3 made.
+
 Bye.
 
 <!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->
